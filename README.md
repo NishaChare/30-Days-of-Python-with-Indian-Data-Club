@@ -10,10 +10,10 @@ To build a solid foundation in Python by committing to write code every single d
 Each folder or file in this repo maps to a specific day in the challenge.
 Here’s a running log of what I’ve worked on so far:
 
-| Day | Topic                            | Challenge Description                                        | Status         | File Link                               |
-| --- | -------------------------------- | ------------------------------------------------------------ | ---------------| ----------------------------------------|
-| 01  | Hello, World + Intro             | Print “Hello, World!” and a personal welcome message         | ✅ Completed   | C:\python30dayschallenge\Day1\first.py |
-| ... | ...                              | ...                                                          | ⏳ In Progress | ...                       |
+| Day | Topic                            | Challenge Description                                        | Status         | File Link|
+| --- | -------------------------------- | ------------------------------------------------------------ | ---------------| ------- |
+| 01  | Hello, World + Intro             | Print “Hello, World!” and a personal welcome message         | ✅ Completed   |Day1.py |
+| ... | ...                              | ...                                                          | ⏳ In Progress | ...     |
 
 
 🔧 Day 0 Setup Checklist

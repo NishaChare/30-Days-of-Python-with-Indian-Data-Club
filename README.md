@@ -20,8 +20,11 @@ Here’s a running log of what I’ve worked on so far:
 Before jumping into code, I made sure to get the basics ready:
 
 ✅ Installed Python 3.11+
+
 ✅ Set up VS Code for Python development
+
 ✅ Configured Git & connected GitHub
+
 ✅ Tested my first .py file to kick things off!
 
 🧠 Why I’m Doing This

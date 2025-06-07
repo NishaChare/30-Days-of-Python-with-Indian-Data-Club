@@ -13,7 +13,7 @@ Here’s a running log of what I’ve worked on so far:
 | Day | Topic                            | Challenge Description                                               | Status         | File Link|
 | --- | -------------------------------- | ------------------------------------------------------------        | ---------------| ------- |
 | 01  | Hello, World + Intro             | Print “Hello, World!” and a personal welcome message                | ✅ Completed  |Day1.py |
-| 02  | Area of Rectangle                | Calculate the area of a rectangle using user-input length and width | ✅ Completed  |    |
+| 02  | Area of Rectangle                | Calculate the area of a rectangle using user-input length and width | ✅ Completed  |Day2(1).py,     |
 
 
 🔧 Day 0 Setup Checklist

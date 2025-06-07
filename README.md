@@ -1,5 +1,7 @@
-,# 30-Days-of-Python-with-Indian-Data-Club
+# 30-Days-of-Python-with-Indian-Data-Club
+
 Hey there! 👋
+
 Welcome to my coding corner where I'm diving into the #30DaysOfPython challenge hosted by Indian Data Club 🚀
 This repository is my way of tracking progress, sharing learnings, and documenting everything I build — one Python-powered day at a time!
 

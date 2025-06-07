@@ -16,6 +16,9 @@ Here’s a running log of what I’ve worked on so far:
 | 02  | Area of Rectangle                | Calculate the area of a rectangle using user-input length and width | ✅ Completed  |Day2(1).py, Day2(2).py, Day2(3).py, Day2.py   |
 | 03  | Lists, Tuples, and Dictionaries  | Create an inventory system tracking items and quantities with a dictionary|✅ Completed | Day3.py |
 | 04  | Control Structures               | Check if a user-entered number is prime                              | ✅ Completed  | Day4.py |
+
+
+
 🔧 Day 0 Setup Checklist
 Before jumping into code, I made sure to get the basics ready:
 

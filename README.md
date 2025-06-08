@@ -22,7 +22,10 @@ Here’s a running log of what I’ve worked on so far:
 | 06  | Modules and Packages             | Generate a random 8-character password                                |✅ Completed | Day6.py, Day6(1).py |   
 |07   | File Handling                    | Count word frequencies in a text file                                |✅ Completed | Day7.py, Day7.txt,word_counts.csv | 
 | 08  | Object-Oriented Programming (Part 1)|Create a Car class with attributes and a display method            | ✅ Completed | Day8.py |
-
+|09   | Object-Oriented Programming (Part 2)|Extend Car into an ElectricCar subclass with battery capacity      |✅ Completed | Day9.py |
+|10   |Exception Handling                |Read numbers from a file and handle errors gracefully                 |✅ Completed | Day10.py |
+|11   |Working with Dates and Times      |Calculate the days between two dates                                  |✅ Completed | Day11.py |
+|12   |Regular Expressions               | Validate gmail addresses using regex                                 |✅ Completed | Day12.py |
 
 
 

@@ -20,6 +20,7 @@ Here’s a running log of what I’ve worked on so far:
 | 04  | Control Structures               | Check if a user-entered number is prime                              | ✅ Completed  | Day4.py |
 | 05  | Functions                        | Write a function that computes the sum and average of a list of numbers | ✅ Completed | Day5.py, Day5(1).py |  
 | 06  | Modules and Packages             | Generate a random 8-character password                                |✅ Completed | Day6.py, Day6(1).py |   
+|07   | File Handling                    | Count word frequencies in a text file                                |✅ Completed | Day7.py, Day7.txt,word_counts.csv | 
 
 
 

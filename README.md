@@ -28,7 +28,8 @@ Here’s a running log of what I’ve worked on so far:
 |12   |Regular Expressions               | Validate gmail addresses using regex                                 |✅ Completed | Day12.py |
 |13   | Data Structures                  |  Implement a stack with push, pop, and peek                          |✅ Completed | Day13.py |
 |14   |Recursion                         | Calculate factorial recursively                                      |✅ Completed | Day14.py |
-
+|15   | Decorators                       | Create a decorator to log function execution time                    |                         |
+ 
 
 
 

@@ -29,7 +29,7 @@ Here’s a running log of what I’ve worked on so far:
 |13   | Data Structures                  |  Implement a stack with push, pop, and peek                          |✅ Completed | Day13.py |
 |14   |Recursion                         | Calculate factorial recursively                                      |✅ Completed | Day14.py |
 |15   | Decorators                       | Create a decorator to log function execution time                    |✅ Completed | Day15.py |
-|16   |Generators and Iterators          |Generate the first n Fibonacci numbers with a generator               |                         |
+|16   |Generators and Iterators          |Generate the first n Fibonacci numbers with a generator               |✅ Completed | Day16.py                         |
 |17   |                                  |                                                                      |                         |
 |18   |                                  |                                                                      |                         |
 |19  |                                  |                                                                      |                         |

@@ -32,7 +32,7 @@ Here’s a running log of what I’ve worked on so far:
 |16   |Generators and Iterators          |Generate the first n Fibonacci numbers with a generator               |✅ Completed | Day16.py |
 |17   |Context Managers                  |Build a context manager for safe file handling                        |✅ Completed | Day17.py |
 |18   |Metaclasses                       |Enforce a naming convention with a metaclass                          |✅ Completed | Day18.py |
-|19  |                                  |                                                                      |                         |
+|19  |Multithreading and Multiprocessing |Download multiple files concurrently using threads                    |✅ Completed | Day19.py |
 |20  |                                  |                                                                      |                         |
 |21  |                                  |                                                                      |                         |
 |22  |                                  |                                                                      |                         |
